@@ -1,6 +1,6 @@
 ---
 title: "CO2 Level Model"
-author: "Marc Rovner"
+author: "Mackenzie Bogiages"
 date: "March 24, 2018"
 output: word_document
 ---
